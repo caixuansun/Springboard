@@ -2,6 +2,8 @@
 
 Code, small sized data, and files for my two capstone projects and all the mini projects  I have done for the Springboard data science career track are included in this repository. 
 
+![Screen Shot 2019-04-16 at 7 05 26 PM](https://user-images.githubusercontent.com/43023031/56249672-9e529680-607a-11e9-8132-e07ad96a2f9c.png)
+
 # Capstone Project 1
 
 ## [Predicting the Gender of the Consumer using Black Friday Dataset](https://github.com/caixuansun/Springboard/tree/master/capstone_project_1)
